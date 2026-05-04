@@ -9,7 +9,7 @@ Currently focused on **AI/ML applications, Neural Networks and computer vision r
 
 ## 🧠 What I'm Working On
 * 👨🏻‍💻 **Incarnation is a digital-clone prototype that combines persona memory retrieval, Gemini-generated exact your replies, Gmail automation, and a your avatar demo.**(AI Agents,LangChain)
-* 🧩 **SimpleRestormer is a compact encoder-decoder network that predicts a restored image from a wheather degraded input image**(ML,Computer Vision)
+* 🧩 **AD^2 Restormer is a compact encoder-decoder network(Transformer and CNN) that predicts a restored image from a wheather degraded input image**(ML,Computer Vision)
 * 🌊 **Underwater object detection research** (computer vision)
 * ☁️ **Self-healing cloud systems research ** using neural networks
 * 🌐  **An interactive portfolio designed to feel less like a resume page and more like a live conversation with the porfolio**(React,AI)
